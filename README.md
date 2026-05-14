@@ -1,16 +1,29 @@
-## Hi there 👋
+## **About Me**
 
-<!--
-**AlbertPaulino/AlbertPaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a hardworking person who enjoys learning new things. I like solving problems, working with technology, and building useful projects. I am looking for opportunities to grow and work on real-world projects.
 
-Here are some ideas to get you started:
+## **Education**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor of Science in Information Techonology - New Era University
+
+## **Certificates**
+
+* <a href="https://courses.cognitiveclass.ai/certificates/6d89384565784e2687790a9bd46a8380">NoSQL and DBaaS 101</a>
+* <a href="https://courses.cognitiveclass.ai/certificates/6126e536852a4fd9b08bb42ef1c39df0">SQL and Relational Databases 101</a>
+* <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8D844A583605A476EA8531CD45E495FD11589B2A59440E0D311CA40E8C767A33">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a>
+* <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E939E3193022511919ACA71F0E1A2499B52DD66F5E96550257725C31E35CD36">Oracle Data Platform 2025 Certified Foundations Associate</a>
+* <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A1AA9DDB296444AC13B3D65DDF58903CC9AFA2D3286EC7BB3B4EAAE159D68B78">Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a>
+
+## **Skill Sets:**
+
+Programming :  Java, Python, Sql
+
+Databases: IBM DB2 Cloud
+
+Tools: Lucidchart, Jaspersoft Studio, Eclipse
+
+## **Contacts:**
+
+Email: johnalbertpaulino@gmail.com
+
+Facebook: John Paulino
